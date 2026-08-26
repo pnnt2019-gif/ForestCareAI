@@ -12,7 +12,7 @@ services:
           name: forestcare-ai-frontend
           property: host
 
-  - type: static
+  - type: web
     name: forestcare-ai-frontend
     runtime: static
     rootDir: frontend
