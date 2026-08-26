@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">ForestCare AI</title>
+  <desc id="desc">ForestCare AI leaf and robot mark</desc>
+  <defs>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a6d832"/><stop offset="1" stop-color="#08734f"/></linearGradient>
+    <linearGradient id="bot" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#075a42"/><stop offset="1" stop-color="#12392f"/></linearGradient>
+  </defs>
+  <path d="M49 153C44 83 93 32 172 31c28 0 54 7 75 20M244 75c-44-24-98-19-136 14-39 34-51 88-29 132 18 36 52 59 91 64" fill="none" stroke="url(#leaf)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M137 56c6 43 4 75-11 102-17 29-35 48-38 77-35-57-31-119 49-179Z" fill="url(#leaf)"/>
+  <path d="M95 238c19 10 43 17 70 18-31-16-50-39-56-69-23 18-27 35-14 51Z" fill="#9bd32f"/>
+  <path d="M101 225c18-45 40-85 64-119" fill="none" stroke="#0b6949" stroke-width="6" stroke-linecap="round"/>
+  <rect x="111" y="132" width="120" height="82" rx="30" fill="url(#bot)" stroke="#08734f" stroke-width="8"/>
+  <path d="M126 149h90v48h-90z" fill="#092a25" stroke="#08734f" stroke-width="5"/>
+  <circle cx="153" cy="173" r="9" fill="#9bd32f"/><circle cx="190" cy="173" r="9" fill="#9bd32f"/>
+  <path d="M171 132V111M162 103h18" stroke="#08734f" stroke-width="7" stroke-linecap="round"/>
+  <path d="M231 119l31-28m-31 28 32 17m-32-17h-28m28-1V83m0 36 20 21" fill="none" stroke="#6fbf31" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="263" cy="90" r="9" fill="#f3f7f3" stroke="#6fbf31" stroke-width="5"/><circle cx="263" cy="136" r="9" fill="#f3f7f3" stroke="#6fbf31" stroke-width="5"/><circle cx="203" cy="119" r="8" fill="#f3f7f3" stroke="#6fbf31" stroke-width="5"/>
+</svg>
