@@ -11,6 +11,12 @@ This repository includes `../render.yaml` for deploying the frontend and Flask b
 
 For local development, create `.env` from `.env.example`, then run `npm run dev`.
 
+## Public demo from your computer
+
+From the repository root, run `powershell -ExecutionPolicy Bypass -File .\start-public.ps1`.
+This opens the backend, Vite frontend, and Cloudflare Tunnel in separate terminals. Share the
+`trycloudflare.com` URL printed by the Cloudflare terminal. Keep all three terminals open.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

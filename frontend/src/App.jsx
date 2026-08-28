@@ -3,7 +3,7 @@ import axios from "axios";
 import * as XLSX from "xlsx";
 import "./App.css";
 
-const API_URL = "https://journey-sleeps-trans-bikes.trycloudflare.com/api";
+const API_URL = import.meta.env.VITE_API_URL || "/api";
 const PREMIUM_CODE = import.meta.env.VITE_PREMIUM_CODE || "FORESTCARE-PREMIUM-2026";
 const FREE_DAILY_LIMIT = 10;
 
