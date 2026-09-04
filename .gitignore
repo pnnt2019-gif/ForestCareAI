@@ -9,6 +9,7 @@ frontend/dist/
 .env
 .env.*
 !.env.example
+backend/firebase-service-account.json
 
 .vscode/
 *.log
